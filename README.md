@@ -61,3 +61,6 @@ Looking back at the design structure of this project, there are flaws that I wou
 First of all, I would create separate classes for the GUI to handle different tasks, which would improve readability and make my code easier to navigate.
 Second, I would create helper methods to refactor repetitive code to reduce redundancy for repetitive methods especially in the GUI, such as marking habits, creating buttons and labels, changing fonts and colours, etc. 
 
+## Citations
+
+Persistence package, including JSONWriter and JSONReader is based on code from [https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo.git](https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo.git)
