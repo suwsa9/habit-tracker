@@ -1,0 +1,14 @@
+{"habits": [
+    {
+        "lastCompletedDate": "2023-11-30",
+        "name": "sleep",
+        "completed": false,
+        "streak": 2
+    },
+    {
+        "lastCompletedDate": "never",
+        "name": "hi",
+        "completed": false,
+        "streak": 0
+    }
+]}

@@ -1,0 +1,16 @@
+{
+  "habits": [
+    {
+      "name": "Exercise",
+      "completed": false,
+      "lastCompletedDate": "never",
+      "streak": 0
+    },
+    {
+      "name": "Read",
+      "completed": true,
+      "lastCompletedDate": "2023-09-04",
+      "streak": 3
+    }
+  ]
+}
