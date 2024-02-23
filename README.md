@@ -1,5 +1,5 @@
 # Habit tracker application ✿
-
+CPSC 210 Project by Susanna Wang
 ## Set reminders to build habits!!
 
 
